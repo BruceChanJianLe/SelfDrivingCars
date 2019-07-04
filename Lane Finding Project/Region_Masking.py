@@ -1,3 +1,4 @@
+# Reference: https://stackoverflow.com/questions/15341538/numpy-opencv-2-how-do-i-crop-non-rectangular-region#
 import cv2
 import numpy as np
 
